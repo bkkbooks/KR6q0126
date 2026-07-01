@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0126/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 臨濟宗旨
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1234.xml
+    old_id: X63n1234
+hash: sha256:8f17786713af8ddee767319fb8657fe4867e179315803fc0a31e0f6335df74b8

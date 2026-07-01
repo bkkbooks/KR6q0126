@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6q0126/v1
+canonical_location: https://kanripo.org/bkk/KR6q0126/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 臨濟宗旨
+  identifiers:
+    alt_id:
+    - X63n1234
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1234.xml
+    old_id: X63n1234
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0126_000.yaml, hash: 'sha256:8f17786713af8ddee767319fb8657fe4867e179315803fc0a31e0f6335df74b8'}
+  - {seq: 1, filename: KR6q0126_001.yaml, hash: 'sha256:96925295846ec294973dfc7638941ba50ae8a97cfe469447e16f58cc3d6bf41b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0126_001.markers.yaml, hash: 'sha256:b440cc2df61517427857813f40f93f616c9e3567120f0ee0dd20811201313e04'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0126_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3382
+  label: 臨濟宗旨
+  type: juan
+  level: 1
+hash: sha256:25f5178723ec8b079cc65748b455b581fa14630385700616d9d3152156004bfb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

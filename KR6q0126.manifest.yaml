@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0126/v1
 canonical_location: https://kanripo.org/bkk/KR6q0126/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 臨濟宗旨
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0126_000.yaml, hash: 'sha256:8f17786713af8ddee767319fb8657fe4867e179315803fc0a31e0f6335df74b8'}
-  - {seq: 1, filename: KR6q0126_001.yaml, hash: 'sha256:8b600918bbdd6308b46a9343a4134708f1bb27998505f7af83c6cc0f182c7c62'}
+  - {seq: 1, filename: KR6q0126_001.yaml, hash: 'sha256:cbeea392047960f7ef4ddc250d9ef711b3fe2733da1b19a3362cc9cc0567d1fb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0126_000.markers.yaml, hash: 'sha256:70fca9f35ed20be0c7a2fcd9f60bda4779637c4866cd56b688095c11bb199846'}
-  - {seq: 1, role: markers, filename: assets/KR6q0126_001.markers.yaml, hash: 'sha256:00c2b06a8886e27693a48738b119ae3c38858f60568d47c4d7158456044ee5cb'}
+  - {seq: 1, role: markers, filename: assets/KR6q0126_001.markers.yaml, hash: 'sha256:661eb02dfc7c163029e8e12399b9afdf5153a3c9df1c2321fa2d9db1e39aa302'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 臨濟宗旨
   type: juan
   level: 1
-hash: sha256:8834c6d7ac76b1ad3408943323d85ed4fc124fa203a7efdaf5cc7ea42f94b9ae
+hash: sha256:ed082d8fca4d083ab41d61d3181b0dfd83f9cb80a8921959b78f23cab4f51ffd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
